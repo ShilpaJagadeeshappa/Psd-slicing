@@ -4,7 +4,7 @@ On the journey from Psd to HTML conversion for an psd file. A part of it, that i
 ## STEP 1 – HAVE ALL THE KEY COMPONENTS OF A PSD DESIGN
 To begin with the conversion process, you need to have a PSD design. Make sure that it is created in Photoshop Layers as this will help to select the right things at the right time without having to use the Photoshop slice tool.Build an eye catching website design that has all the elements like Header, Footer, Navigation Bar, Sidebar, etc. placed sequentially. Once you have a PSD website with all its essential components, you are ready to convert it to HTML.
 
-## STEP 2 – KNOW YOUR TOOLS##
+## STEP 2 – KNOW YOUR TOOLS
 Converting a website design from PSD to HTML requires clear understanding and expertise in front end development. This encompasses, but is not limited to, HTML, CSS, JQuery and JavaScript. PSD to HTML conversion is not just about smattering HTML, adding a dash of CSS, and a bit of JavaScript for good measure. Converting modern web pages is critical and demands extensive knowledge of not just the markup language (HTML) and styling (CSS), but also the key features of a web page, including JQuery and JavaScript. Moreover, website design for mobiles and tablets is the call of the age and hence, those factors also need to be considered while translating a PSD design to HTML.
 
 ## STEP 3 – GETTING THE PSD FILES READY FOR CONVERSION
