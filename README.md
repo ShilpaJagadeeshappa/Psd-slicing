@@ -20,7 +20,7 @@ Your HTML design is ready! PSD to HTML conversion is intricate, especially if yo
 
 ### Note: To play with different designs or to make interactive websites for different screens rendering on various devices we need to pitch into responsive coding.
 
-## Lets jump into the code to convert psd to slices
+## Lets jump into the code to convert psd to slices automatically
 
 ### Run pip install psd-tools
 
@@ -40,7 +40,13 @@ for layer in psd:
     layer_image.save('%s.png' % layer.name)
   ```
   
-  Refer the below output:
+## Refer the below output for testcase-1 folder:
+Sliced images links-
+https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%201.png
+https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%202.png
+https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%203.png
+https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%204.png
+https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%205.png
   
  ![Screenshot](https://raw.githubusercontent.com/ShilpaJagadeeshappa/Psd-slicing/master/testcase-1/screenshot.png)
 
