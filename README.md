@@ -41,6 +41,9 @@ for layer in psd:
   ```
   
 ## Refer the below output for testcase-1 folder:
+### Creative1.jpg in psd format is fed to program
+![Creative1.jpg](https://raw.githubusercontent.com/ShilpaJagadeeshappa/Psd-slicing/master/testcase-1/creative1.jpg)
+
 Sliced images links-
 https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%201.png
 https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%202.png
@@ -49,6 +52,23 @@ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie
 https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie%205.png
   
  ![Screenshot](https://raw.githubusercontent.com/ShilpaJagadeeshappa/Psd-slicing/master/testcase-1/screenshot.png)
+ 
+ ## Refer to below links for testcase-2 folder sliced images-
+ ### Creative2.jpg in psd format is fed to program
+ ![Creative2.jpg](https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/creative2.jpg)
+ 
+ Sliced images links-
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%201.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%202.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%203.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%204.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%205.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%206.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%207.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%208.png
+ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%209.png
+ 
+ 
 
 
 
