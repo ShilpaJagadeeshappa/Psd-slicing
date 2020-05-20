@@ -19,3 +19,30 @@ Next, to mark up the HTML, you will have to focus more on individual sections li
 Your HTML design is ready! PSD to HTML conversion is intricate, especially if you are working on the complex HTML5/CSS3 standards.Hire a professional PSD to HTML conversion company like Satvik Infotech who have the knowledge and experience to create visually appealing, eye catching, responsive HTML website designs.
 
 ### Note: To play with different designs or to make interactive websites for different screens rendering on various devices we need to pitch into responsive coding.
+
+## Lets jump into the code to convert psd to slices
+
+### Run pip install psd-tools
+
+Note:
+In order to extract images from 32bit PSD files PIL/Pillow must be built with LITTLECMS or LITTLECMS2 support.
+
+## Code
+```
+from psd_tools import PSDImage
+
+psd = PSDImage.open('example.psd')
+psd.composite().save('example.png')
+
+for layer in psd:
+    print(layer)
+    layer_image = layer.composite()
+    layer_image.save('%s.png' % layer.name)
+  ```
+  
+  Refer the below output:
+  
+ ![alt text](http://url/to/img.png)
+
+
+
