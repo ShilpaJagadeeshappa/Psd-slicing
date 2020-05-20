@@ -42,7 +42,7 @@ for layer in psd:
   
   Refer the below output:
   
- ![alt text](http://url/to/img.png)
+ ![Screenshot](https://raw.githubusercontent.com/ShilpaJagadeeshappa/Psd-slicing/master/testcase-1/screenshot.png)
 
 
 
