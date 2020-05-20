@@ -68,6 +68,8 @@ https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-1/Storie
  https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%208.png
  https://github.com/ShilpaJagadeeshappa/Psd-slicing/blob/master/testcase-2/Post%209.png
  
+  ![Screenshot-2](https://raw.githubusercontent.com/ShilpaJagadeeshappa/Psd-slicing/master/testcase-2/Screenshot-2.png)
+ 
  
 
 
